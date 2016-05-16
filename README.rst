@@ -1,7 +1,13 @@
-Fluent Python: example code
-===========================
+Fluent Python: notebooks
+========================
 
-Example code for the book `Fluent Python`_ by Luciano Ramalho (O'Reilly, 2014).
+This repository contains example code for the book `Fluent Python`_ by Luciano Ramalho (O'Reilly, 2014), with Jupyter notebooks added by Allen Downey.
+
+You can run the notebooks by cloning this repo and running your own Jupyter server.  Or you can run them on Binder by pressing the button below.
+
+.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org/repo/AllenDowney/fluent-python-notebooks
+
+
 
    **BEWARE**: This is a work in progress, like the book itself.
 
